@@ -94,7 +94,7 @@ include:
 exclude:
 ignore:
 
-# Extension
+# Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: typo
@@ -104,3 +104,4 @@ theme: typo
 deploy:
   type: git
   repo: https://github.com/2858199552/2858199552.github.io
+  branch: gh-pages
