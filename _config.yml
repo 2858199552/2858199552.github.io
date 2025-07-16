@@ -94,7 +94,7 @@ include:
 exclude:
 ignore:
 
-# Extensions
+# Extension
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 theme: typo
