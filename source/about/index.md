@@ -29,6 +29,8 @@ B站（直播）： [洋流朋克](https://space.bilibili.com/3493117003041074)
 
 ## 游戏作品
 
+<img src="/source/img/OceanPunk_Icon_0.png" width="80" height="80" />
+
 [洋流朋克](https://store.steampowered.com/app/1883840/_/)
 
 >末日废墟世界中，你将探索危险的海洋和诸岛。换上潜水服，发现神秘的海底宝藏。然而，资源匮乏与生态危机带来全新挑战。部落崛起，势力争夺，科技与希望并存。你想成为海上求生的英雄吗？拓展生存空间，建设复杂设施，应对自私嗜血的敌人。准备好了吗？迎接这场像素风的海洋生存之旅吧！
@@ -39,7 +41,9 @@ B站（直播）： [洋流朋克](https://space.bilibili.com/3493117003041074)
 
 ## 参考数据
 
+![统计数据](/source/img/sankeymatic_20250717_042449_2000x1200.png)
+
 <!-- 统计数据 -->
 <div align="center">
-  <img height="500px" src="https://tc.z.wiki/autoupload/f/R5kbv9BGr4UEbMhGAezwauLiCfpjDkmm_nK2r2Q_jbSyl5f0KlZfm6UsKj-HyTuv/20250717/2T1F/2000X1200/sankeymatic_20250717_042449_2000x1200.png" />
+  <img src="https://tc.z.wiki/autoupload/f/R5kbv9BGr4UEbMhGAezwauLiCfpjDkmm_nK2r2Q_jbSyl5f0KlZfm6UsKj-HyTuv/20250717/2T1F/2000X1200/sankeymatic_20250717_042449_2000x1200.png" style="max-width: 100%; height: auto; width: 600px;" />
 </div>
